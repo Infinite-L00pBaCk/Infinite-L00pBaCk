@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="kt.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Priyam's Workstation">
+  <img src="e_d_d_a_mp_.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Priyam's Workstation">
 
   <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/priyam-prakash-b044972a8" target="_blank">Priyam Prakash</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
