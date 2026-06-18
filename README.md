@@ -61,7 +61,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Infinite-L00pBaCk&theme=kacho_ga&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&v=2" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Infinite-L00pBaCk&theme=kacho_ga&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&v=3" alt="Streak Stats" />
 </div>
 
 <br/>
