@@ -83,6 +83,7 @@
 <div align="center">
   <img src="github-activity-graph.svg?v=1" alt="Activity Graph" />
   <br/><br/>
+  <img src="github-rating-stats.svg?v=1" alt="Rating Stats" />
   <img src="github-streak-stats.svg?v=1" alt="Streak Stats" />
   <br/><br/>
   <picture>

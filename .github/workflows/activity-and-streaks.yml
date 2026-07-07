@@ -20,10 +20,13 @@ jobs:
       - name: Download Streak Stats
         run: curl -s "https://streak-stats.demolab.com/?user=Infinite-L00pBaCk&theme=tokyonight&hide_border=true&background=0D1117" -o github-streak-stats.svg
 
+      - name: Download Rating Stats
+        run: curl -f -s "https://github-readme-stats.vercel.app/api?username=Infinite-L00pBaCk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" -o github-rating-stats.svg || true
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add github-activity-graph.svg github-streak-stats.svg
+          git add github-activity-graph.svg github-streak-stats.svg github-rating-stats.svg
           git commit -m "chore: updated activity and streak graphs" || exit 0
           git push origin main
