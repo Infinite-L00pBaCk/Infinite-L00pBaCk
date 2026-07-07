@@ -26,8 +26,13 @@ jobs:
           config_timezone: Asia/Kolkata
           config_theme: github-dark
           config_padding: 0, 0
+          config_animations: yes
           config_style: |
             svg { background: transparent !important; border: none !important; }
+            
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
           
           # Top Languages
           plugin_languages: yes
