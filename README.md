@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Octocat.gif" width="100%" />
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100%" />
     </td>
   </tr>
 </table>
