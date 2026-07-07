@@ -54,9 +54,9 @@
 ### 📊 Github Analytics
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Priyam's Comprehensive GitHub Metrics" width="100%" />
+  <img src="github-metrics.svg?v=1" alt="Priyam's Comprehensive GitHub Metrics" width="100%" />
   <br/><br/>
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <br/>
