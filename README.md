@@ -80,11 +80,20 @@
 
 <br/>
 
-### 🏆 Achievements & Certifications
-* 🥇 **1x Hackathon Winner**
-* 🎓 **Gemini Certified University Student**
-* 📜 **Certified:** Google Analytics, Introduction to Generative AI, UI/UX
-* 🔬 **Research:** Cisco Community Research Intern @ VIT Bhopal
+<div align="center">
+  <h3>🏆 Achievements & Certifications</h3>
+  <br/>
+  
+  ![Hackathon](https://img.shields.io/badge/🥇_1x_Hackathon_Winner-FFD700?style=for-the-badge&logoColor=black)
+  ![Gemini](https://img.shields.io/badge/🎓_Gemini_Certified_Student-412991?style=for-the-badge&logo=google-gemini&logoColor=white)
+  ![Research](https://img.shields.io/badge/🔬_Cisco_Research_Intern-005073?style=for-the-badge&logo=cisco&logoColor=white)
+  
+  <br/><br/>
+
+  ![Google Analytics](https://img.shields.io/badge/📊_Certified:_Google_Analytics-F4B400?style=for-the-badge)
+  ![GenAI](https://img.shields.io/badge/🧠_Certified:_GenAI-0F9D58?style=for-the-badge)
+  ![UI/UX](https://img.shields.io/badge/🎨_Certified:_UI/UX-DB4437?style=for-the-badge)
+</div>
 
 <hr/>
 
