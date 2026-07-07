@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100%" />
+      <img src="https://i.pinimg.com/originals/97/5c/00/975c00861ed6d8f7e5671b78de4a4472.jpg" width="100%" />
     </td>
   </tr>
 </table>
