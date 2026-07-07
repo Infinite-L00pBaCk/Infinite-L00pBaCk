@@ -57,6 +57,10 @@
   <picture>
     <img src="github-metrics.svg" alt="Priyam's Comprehensive GitHub Metrics" width="800" />
   </picture>
+  <br/>
+  <picture>
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="800" />
+  </picture>
 </div>
 
 <br/>
