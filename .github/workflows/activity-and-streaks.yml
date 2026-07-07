@@ -23,10 +23,8 @@ jobs:
       - name: Download Rating Stats
         run: curl -f -s "https://github-readme-stats.vercel.app/api?username=Infinite-L00pBaCk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" -o github-rating-stats.svg || true
 
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add github-activity-graph.svg github-streak-stats.svg github-rating-stats.svg
-          git commit -m "chore: updated activity and streak graphs" || exit 0
-          git push origin HEAD:main
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: updated activity and streak graphs"
+          file_pattern: "*.svg"
