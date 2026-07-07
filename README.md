@@ -25,19 +25,25 @@
 
 <hr/>
 
-### 👨‍💻 System Log: `About_Me.log`
+### 👨‍💻 System Log: `about_me.json`
 
-```bash
-> Initializing User Profile...
-> User: Priyam Prakash
-> Role: Core Member & Research Intern @ Cisco Community VITB
-> Education: B.Tech ECE, VIT Bhopal ('28)
-> Status: Bridging the gap between Silicon and Software.
-> Interests: 
-  - 📡 Networking, Cybersecurity & Signal Processing
-  - 🤖 Generative AI, Prompt Engineering & ML
-  - 🏎️ GPU Programming (CUDA) & VLSI Design
-  - 🌐 Full Stack Web Development
+```json
+{
+  "user": "Priyam Prakash",
+  "roles": [
+    "Core Member & Research Intern @ Cisco Community VITB",
+    "Student Operator @ IEEE VIT Bhopal"
+  ],
+  "education": "B.Tech ECE, VIT Bhopal ('28)",
+  "status": "Bridging the gap between Silicon and Software.",
+  "current_mission": "Building the Voice-Controlled Obstacle-Avoiding Robot v4.0",
+  "interests": [
+    "📡 Networking, Cybersecurity & Signal Processing",
+    "🤖 Generative AI, Prompt Engineering & ML",
+    "🏎️ GPU Programming (CUDA) & VLSI Design",
+    "🌐 Full Stack Web Development"
+  ]
+}
 ```
 ### 🛠️ The Tech Arsenal
 *From logic gates to cloud architecture.*
