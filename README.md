@@ -25,26 +25,26 @@
 
 <hr/>
 
-### 👨‍💻 System Log: `about_me.json`
+### 👨‍💻 Talking about Personal Stuffs:
 
-```json
-{
-  "user": "Priyam Prakash",
-  "roles": [
-    "Core Member & Research Intern @ Cisco Community VITB",
-    "Student Operator @ IEEE VIT Bhopal"
-  ],
-  "education": "B.Tech ECE, VIT Bhopal ('28)",
-  "status": "Bridging the gap between Silicon and Software.",
-  "current_mission": "Building the Voice-Controlled Obstacle-Avoiding Robot v4.0",
-  "interests": [
-    "📡 Networking, Cybersecurity & Signal Processing",
-    "🤖 Generative AI, Prompt Engineering & ML",
-    "🏎️ GPU Programming (CUDA) & VLSI Design",
-    "🌐 Full Stack Web Development"
-  ]
-}
-```
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>💻 I’m currently working on <b>Voice-Controlled Obstacle-Avoiding Robot v4.0</b></li>
+        <li>🌱 I’m currently learning <b>Networking & Cybersecurity</b></li>
+        <li>🤝 I’m looking to collaborate on <b>Embedded Systems & AI</b></li>
+        <li>🎓 Education: <b>B.Tech ECE, VIT Bhopal ('28)</b></li>
+        <li>⚡ Roles: <b>Core Member & Research Intern @ Cisco Community VITB | Student Operator @ IEEE VIT Bhopal</b></li>
+        <li>💬 Ask me about anything, I am happy to help!</li>
+        <li>📫 How to reach me: <b>priyamwork111@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Octocat.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 ### 🛠️ The Tech Arsenal
 *From logic gates to cloud architecture.*
 
