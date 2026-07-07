@@ -37,7 +37,3 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          
-          # Habits & Contribution Calendar (replaces streak widget)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
