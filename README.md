@@ -60,6 +60,26 @@
 
 <br/>
 
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Infinite-L00pBaCk/Voice-Controlled-Obstacle-Avoiding-Robot-v4.0-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Infinite-L00pBaCk&repo=Voice-Controlled-Obstacle-Avoiding-Robot-v4.0-&theme=tokyonight&hide_border=true" width="400" />
+  </a>
+  <a href="https://github.com/Infinite-L00pBaCk/-Arduino-Uno-Web-Based-Simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Infinite-L00pBaCk&repo=-Arduino-Uno-Web-Based-Simulator&theme=tokyonight&hide_border=true" width="400" />
+  </a>
+  <br/>
+  <a href="https://github.com/Infinite-L00pBaCk/FocusBoard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Infinite-L00pBaCk&repo=FocusBoard&theme=tokyonight&hide_border=true" width="400" />
+  </a>
+  <a href="https://github.com/Infinite-L00pBaCk/Banking-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Infinite-L00pBaCk&repo=Banking-System&theme=tokyonight&hide_border=true" width="400" />
+  </a>
+</div>
+
+<br/>
+
 ### 📊 Github Analytics
 
 <div align="center">
@@ -76,6 +96,12 @@
   <img src="github-activity-graph.svg?v=1" alt="Activity Graph" />
   <br/><br/>
   <img src="github-streak-stats.svg?v=1" alt="Streak Stats" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-snake-dark.svg">
+    <img alt="Contribution Snake Animation" src="github-snake-dark.svg">
+  </picture>
 </div>
 
 <br/>
@@ -99,5 +125,6 @@
 
 <div align="center">
   <p><i>"Curious. Driven. Ready to innovate."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=Infinite-L00pBaCk&color=00FFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <p><small> Generated with the power of Logic & Code</small></p>
 </div>
