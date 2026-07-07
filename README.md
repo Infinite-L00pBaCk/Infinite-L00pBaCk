@@ -70,6 +70,16 @@
 
 <br/>
 
+### 📈 Activity & Streaks
+
+<div align="center">
+  <img src="github-activity-graph.svg?v=1" alt="Activity Graph" width="100%" />
+  <br/><br/>
+  <img src="github-streak-stats.svg?v=1" alt="Streak Stats" width="100%" />
+</div>
+
+<br/>
+
 ### 🏆 Achievements & Certifications
 * 🥇 **1x Hackathon Winner**
 * 🎓 **Gemini Certified University Student**
