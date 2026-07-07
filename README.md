@@ -42,12 +42,21 @@
 ### 🛠️ The Tech Arsenal
 *From logic gates to cloud architecture.*
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Hardware & IoT** | ![Verilog](https://img.shields.io/badge/-Verilog-F7DF1E?logo=javascript&logoColor=black) ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-181717?logo=systemverilog&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=Raspberry-Pi&logoColor=white) ![Embedded C](https://img.shields.io/badge/-Embedded_C-A8B9CC?logo=c&logoColor=black) |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white) |
-| **AI & Data** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![GenAI](https://img.shields.io/badge/-Generative_AI-412991?logo=google-gemini&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
-| **Full Stack** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
+<div align="center">
+
+**Hardware & Systems**<br>
+[![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,linux)](https://skillicons.dev)
+
+**AI & Python Ecosystem**<br>
+[![AI](https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch)](https://skillicons.dev)
+
+**Full Stack & Web**<br>
+[![Web](https://skillicons.dev/icons?i=ts,js,react,nodejs,mongodb,flask,html,css)](https://skillicons.dev)
+
+**Tools & Architecture**<br>
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bash)](https://skillicons.dev)
+
+</div>
 
 <br/>
 
