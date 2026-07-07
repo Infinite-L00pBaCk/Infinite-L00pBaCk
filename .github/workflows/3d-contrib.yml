@@ -27,5 +27,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "chore: generated 3D contribution graph"
-          git push
+          git commit -m "chore: generated 3D contribution graph" || exit 0
+          git push https://${{ github.actor }}:${{ secrets.METRICS_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
