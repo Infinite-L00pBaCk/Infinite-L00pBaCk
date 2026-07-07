@@ -22,7 +22,7 @@ jobs:
           filename: github-metrics.svg
           user: Infinite-L00pBaCk
           template: classic
-          base: header, activity, community, repositories
+          base: header
           config_timezone: Asia/Kolkata
           
           # Top Languages
