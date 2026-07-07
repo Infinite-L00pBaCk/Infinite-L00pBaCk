@@ -29,8 +29,8 @@ jobs:
           extras_css: |
             svg { background: transparent !important; border: none !important; }
             
-          # Achievements
-          plugin_achievements: yes
+          # Achievements (Disabled temporarily because empty section causes overlap)
+          plugin_achievements: no
           plugin_achievements_display: compact
           
           # Top Languages
