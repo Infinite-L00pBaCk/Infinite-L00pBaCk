@@ -16,8 +16,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
@@ -28,4 +26,4 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "chore: generated 3D contribution graph" || exit 0
-          git push https://${{ github.actor }}:${{ secrets.METRICS_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          git push
