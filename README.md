@@ -54,14 +54,14 @@
 ### 📊 Github Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Infinite-L00pBaCk&show_icons=true&theme=kacho_ga&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&v=1" alt="Priyam's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-L00pBaCk&layout=compact&theme=kacho_ga&hide_border=true&bg_color=0D1117&title_color=20C20E&v=1" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Infinite-L00pBaCk&show_icons=true&theme=kacho_ga&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" alt="Priyam's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-L00pBaCk&layout=compact&theme=kacho_ga&hide_border=true&bg_color=0D1117&title_color=20C20E" alt="Top Languages" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Infinite-L00pBaCk&theme=kacho_ga&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Infinite-L00pBaCk&theme=kacho_ga&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&v=4" alt="Streak Stats" />
 </div>
 
 <br/>
