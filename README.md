@@ -45,8 +45,8 @@
     </td>
   </tr>
 </table>
-### 🛠️ The Tech Arsenal
-*From logic gates to cloud architecture.*
+ 🛠️ The Tech Arsenal
+*From logic gates to cloud architecture*.
 
 <div align="center">
 
