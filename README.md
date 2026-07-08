@@ -32,10 +32,10 @@
     <td width="60%">
       <ul>
         <li>💻 I’m currently working on <b>Voice-Controlled Obstacle-Avoiding Robot v4.0</b></li>
-        <li>🌱 I’m currently learning <b>Networking & Cybersecurity</b></li>
+        <li>🌱 I’m currently learning <b>Web Devolopment & Embeddeed Systems </b></li>
         <li>🤝 I’m looking to collaborate on <b>Embedded Systems & AI</b></li>
         <li>🎓 Education: <b>B.Tech ECE, VIT Bhopal ('28)</b></li>
-        <li>⚡ Roles: <b>Core Member & Research Intern @ Cisco Community VITB | Student Operator @ IEEE VIT Bhopal</b></li>
+        <li>⚡ Roles: <b>Core Member & Research Intern @ Cisco Community VITB | Student Partner @ IEEE VIT Bhopal</b></li>
         <li>💬 Ask me about anything, I am happy to help!</li>
         <li>📫 How to reach me: <b>priyamwork111@gmail.com</b></li>
       </ul>
