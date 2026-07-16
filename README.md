@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/97/5c/00/975c00861ed6d8f7e5671b78de4a4472.jpg" width="100%" />
+      <img src="for_this_image_attached_can_u1-ezgif.com-resize.gif" width="100%" />
     </td>
   </tr>
 </table>
