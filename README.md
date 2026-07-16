@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="for_this_image_attached_can_u1-ezgif.com-resize.gif" width="100%" />
+      <img src="Screen Recording 2026-07-17 004741 (1).gif" width="100%" />
     </td>
   </tr>
 </table>
