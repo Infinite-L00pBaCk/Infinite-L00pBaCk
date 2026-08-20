@@ -21,7 +21,7 @@ jobs:
         run: curl -s "https://streak-stats.demolab.com/?user=Infinite-L00pBaCk&theme=tokyonight&hide_border=true&background=0D1117" -o github-streak-stats.svg
 
       - name: Download Rating Stats
-        run: curl -f -s "https://github-readme-stats-sigma-five.vercel.app/api?username=Infinite-L00pBaCk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" -o github-rating-stats.svg || true
+        run: curl -f -s "https://github-readme-stats-eight-theta.vercel.app/api?username=Infinite-L00pBaCk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" -o github-rating-stats.svg || true
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
